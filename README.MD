@@ -56,8 +56,3 @@ The fine-tuned model achieves high precision, recall, F1-score, and accuracy in 
 ## Acknowledgements
 
 This project utilizes the [Hugging Face Transformers library](https://huggingface.co/transformers/) for model training and inference. The `seqeval` library is used for evaluation metrics.
-
-## License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
